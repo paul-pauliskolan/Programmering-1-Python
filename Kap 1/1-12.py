@@ -1,0 +1,6 @@
+print("Övning 1 – Skriv ut text")
+print("Hej världen")
+print("Hej\nigen")
+print("Namn\tKlass")
+print("Paul\tTE23")
+print("Han sa: \"Python är kul\"")
